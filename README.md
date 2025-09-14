@@ -1,0 +1,1 @@
+This repository contains beginner-friendly JavaScript exercises to build a strong foundation in the language.
